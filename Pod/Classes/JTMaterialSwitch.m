@@ -79,7 +79,7 @@
   // Determine switch size
   switch (size) {
     case JTMaterialSwitchSizeLine:
-      frame = CGRectMake(0, 0, 50, 40);
+      frame = CGRectMake(0, 0, 40, 30);
       self.trackThickness = 8.0;
       self.thumbSize = 24.0;
       break;
