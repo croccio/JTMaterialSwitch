@@ -50,7 +50,7 @@
 - (id)init
 {
   self = [self initWithSize:JTMaterialSwitchSizeNormal
-                      style:JTMaterialSwitchStyleDefault
+                      style:JTMaterialSwitchSizeLine
                       state:JTMaterialSwitchStateOn];
   
   return self;
