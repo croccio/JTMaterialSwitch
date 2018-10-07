@@ -44,7 +44,8 @@ typedef enum {
 typedef enum {
   JTMaterialSwitchSizeBig,
   JTMaterialSwitchSizeNormal,
-  JTMaterialSwitchSizeSmall
+  JTMaterialSwitchSizeSmall,
+  JTMaterialSwitchSizeLine
 } JTMaterialSwitchSize;
 
 
