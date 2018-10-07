@@ -81,7 +81,7 @@
     case JTMaterialSwitchSizeLine:
       frame = CGRectMake(0, 0, 50, 40);
       self.trackThickness = 8.0;
-      self.thumbSize = 31.0;
+      self.thumbSize = 24.0;
       break;
       
     case JTMaterialSwitchSizeBig:
